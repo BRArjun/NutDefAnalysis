@@ -1,5 +1,3 @@
-<img src="Docs/Screenshot from 2025-08-20 20-00-07.png">
-
 # Plant Nutrition Deficiency Detection
 
 An AI-powered system designed to automatically detect nutritional deficiencies in plant leaves using deep learning and image processing techniques. The primary goal is to provide a fast, reliable, and user-friendly diagnostic tool for farmers, particularly in remote areas, who may lack access to expert agronomic support.
@@ -14,17 +12,9 @@ An intelligent, image-based system that uses deep learning to analyze visual sym
 
 ## Methodology
 
-The proposed solution follows a clear workflow:
+<img src="Docs/Screenshot from 2025-08-20 20-00-07.png">
 
-1.  **Image Upload**: The user uploads an image and selects the plant type.
-2.  **Pre-processing**: The image is converted to RGB, resized to 224x224 pixels, and normalized.
-3.  **Model Selection**: A model selector routes the pre-processed image to the appropriate, crop-specific model.
-      * **Banana**: EfficientNet-B0 model is used.
-      * **Rice**: MobileNetV2 model is used.
-      * **Groundnut**: MobileNetV2 model is used.
-4.  **Output Display**: The system displays the top predicted class, confidence score, and the diagnosed output class.
-
-## Model Performance
+## Comparison of Default Model Performances
 
 The models were selected and evaluated based on their performance and suitability for practical use on edge devices.
 
