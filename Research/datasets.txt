@@ -1,0 +1,10 @@
+https://www.kaggle.com/datasets/raiaone/early-nutrient-stress-detection-of-plants
+
+https://data.mendeley.com/datasets/7vpdrbdkd4/2 - Indian Banana Leaves
+
+https://data.mendeley.com/datasets/brfgw46wzb/1 
+
+https://drive.google.com/file/d/1xNRX9gAlqM-ToWaJ9VbhIXh725dIcyCT/view?usp=sharing - Dataset Link for GroundNut Dataset
+
+https://www.kaggle.com/datasets/guy007/nutrientdeficiencysymptomsinrice
+
