@@ -12,7 +12,7 @@ An intelligent, image-based system that uses deep learning to analyze visual sym
 
 ## Methodology
 
-<img src="Docs/Screenshot from 2025-08-20 20-00-07.png">
+<img src="Images/Screenshot from 2025-08-20 20-00-07.png">
 
 ## Comparison of Default Model Performances
 
@@ -38,4 +38,4 @@ The models were selected and evaluated based on their performance and suitabilit
   * **Model Evaluation**: scikit-learn 
   * **Others**: NumPy, Pickle
 
-<img src="Docs/Screenshot from 2025-08-20 20-00-29.png">
+<img src="Images/Screenshot from 2025-08-20 20-00-29.png">
